@@ -1,1 +1,1 @@
-# sales_analysis.sql
+sql-business-case-studies
